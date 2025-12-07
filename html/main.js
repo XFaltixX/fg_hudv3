@@ -110,7 +110,7 @@ function setJob2Icon(value){
 
 function setTalking(value){
 	if (value){
-		$('#voice').css('border', '4px solid #0066ff')
+		$('#voice').css('border', '4px solid #e100ff')
 	}else{
 		$('#voice').css('border', '4px solid rgb(197, 197, 197)')
 	}
