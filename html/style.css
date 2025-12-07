@@ -1,11 +1,11 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Rajdhani+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap");
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
-  font-weight: normal;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
   font-size: 15px;
   text-shadow: 2px 2px 3px #00000077;
 }
